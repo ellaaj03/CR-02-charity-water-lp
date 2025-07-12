@@ -25,7 +25,7 @@ section {
   justify-content: flex-start;
   align-items: center;
 
-  background-image: url('https://cdn2.dropmarkusercontent.com/52043/a4dfe1a1533db707d8c59c05aa38cffa10885bd977ec30228726eb8a66babf48/charity_water_Tanzania_TaraShupePhotography_0035.jpg?Expires=1752357380&Signature=IHknOJ21KpH1y6r78Zu4IpNfInsUFEAawZmq~DCqGbQrKNirP51iJFJslfUFEFWp-U~Vs1eC5huQnSmTTm6QRsakTfHgtb8-x41QegHirnSzqTqjsBU42MuXz6uTzEvNPeVvf6dFX7k08OgTB8VX1sQbBZSPxQlPD-zCuxSGIzLPFwgiKf6u91I916PgJzZIkJopjwDX47zjCJOD~s9MVP-tpcJhPLhXCiGJJ5EPUlZn21dRqRROTaSkGI2UVCCMW3rzq3pLqRdSrZ5-4O-f22X6BHUibNUDlIh1QnzM46ywrY2KZWdaIONfrjhLLRPcmKVF~0EAB4heMcoiV8LwcQ__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ');
+  background-image: img src="image1.png";
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
