@@ -192,3 +192,8 @@ section {
     padding: 14px 8px;
   }
 }
+.charity-logo {
+  margin-top: 20px;
+  max-width: 150px;  /* Adjust size as needed */
+  height: auto;
+  display: block;
