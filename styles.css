@@ -55,6 +55,7 @@ section {
   margin-top: 0;
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
 }
+
 /* Icons Section */
 .icons {
   display: flex;
@@ -85,6 +86,7 @@ section {
   color: #2E9DF7;
   margin: 0;
 }
+
 .call-to-action {
   background-color: #FFC907;
   color: #222;
@@ -116,6 +118,14 @@ section {
 
 .cta-text p {
   margin-bottom: 20px;
+}
+
+/* ✅ Charity Logo: Now properly styled */
+.charity-logo {
+  margin-top: 20px;
+  max-width: 200px;
+  height: auto;
+  display: block;
 }
 
 .cta-image {
@@ -192,8 +202,3 @@ section {
     padding: 14px 8px;
   }
 }
-.charity-logo {
-  margin-top: 20px;
-  max-width: 150px;  /* Adjust size as needed */
-  height: auto;
-  display: block;
