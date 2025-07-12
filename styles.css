@@ -76,14 +76,6 @@ section {
   text-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
-/* Story Section Styles */
-.story {
-  background-color: #8BD1CB; /* Secondary Light Blue */
-  color: #222;
-  text-align: center;
-  padding: 30px 20px;
-}
-
 /* Add accent color to section headings */
 h2 {
   color: #2E9DF7; /* Primary blue */
